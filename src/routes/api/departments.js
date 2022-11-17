@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import { Router } from 'express'
 
 import { getDepartments, getDepartment } from '../../models/departments'

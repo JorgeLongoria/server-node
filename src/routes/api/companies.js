@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import { Router } from 'express'
 
 import { getCompanies, getCompany, addCompany } from '../../models/companies'
